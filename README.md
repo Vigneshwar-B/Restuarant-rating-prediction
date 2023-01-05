@@ -1,3 +1,5 @@
+![Screenshot (51)](https://user-images.githubusercontent.com/104056311/210840253-4fd9563e-6fcc-4e18-a5f4-31aa48e2390a.png)
+
 Zomato is one of the best online food delivery apps which gives the users the ratings and the reviews on restaurants all over india.These ratings and the Reviews are considered as one of the most important deciding factors which determine how good a restaurant is.
 
 We will therefore use the real time Data set with variuos features a user would look into regarding a restaurant. We will be considering Banglore City in this analysis.
